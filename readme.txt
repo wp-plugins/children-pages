@@ -23,6 +23,10 @@ No configuration at all. Throw in the widget in your sidebar and it shows all su
 
 It's just a widget and you find it under widgets.
 
+== Screenshots ==
+
+1.
+
 == Changelog ==
 
 = 1.0 =
@@ -30,3 +34,7 @@ It's just a widget and you find it under widgets.
 
 = Future versions =
 * Possibly I'll add some basic configuration to the widget if I feel like one day.
+
+== Upgrade Notice ==
+none.
+
